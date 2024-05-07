@@ -18,9 +18,6 @@ List<ContactUtils> contactUtils = [
       url: facebook,
       icon: "https://img.icons8.com/ios-filled/50/000000/facebook-new.png"),
   ContactUtils(
-      url: youtube,
-      icon: "https://img.icons8.com/ios-filled/50/000000/youtube-play.png"),
-  ContactUtils(
       url: whatsapp,
       icon: "https://img.icons8.com/material-outlined/48/000000/whatsapp.png"),
   ContactUtils(
